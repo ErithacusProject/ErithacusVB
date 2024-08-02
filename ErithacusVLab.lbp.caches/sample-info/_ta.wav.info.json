@@ -1,0 +1,21 @@
+{
+    "name": "ta.wav",
+    "file": "ta.wav",
+    "convertedFile": null,
+    "moduleName": "",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 2,
+    "length": 74907,
+    "lengthMillis": 1698.5714,
+    "chunkSize": 74907,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "hasPower": false,
+    "powerChannels": 1,
+    "hasFundamental": false,
+    "lastModified": 1722599966533,
+    "algorithmVersion": 4
+}

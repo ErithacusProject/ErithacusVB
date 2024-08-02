@@ -1,0 +1,21 @@
+{
+    "name": "nya.wav",
+    "file": "nya.wav",
+    "convertedFile": null,
+    "moduleName": "",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 2,
+    "length": 95387,
+    "lengthMillis": 2162.9705,
+    "chunkSize": 95387,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "hasPower": false,
+    "powerChannels": 1,
+    "hasFundamental": false,
+    "lastModified": 1722601013861,
+    "algorithmVersion": 4
+}
