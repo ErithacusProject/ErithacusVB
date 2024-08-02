@@ -297,5 +297,8 @@
     "ze.wav//spectrogram//0": "_ze.wav_spectrogram_0.png",
     "zo.wav//waveform//0//0": "_zo.wav_waveform_0_0.png",
     "zo.wav//waveform//1//0": "_zo.wav_waveform_1_0.png",
-    "zo.wav//spectrogram//0": "_zo.wav_spectrogram_0.png"
+    "zo.wav//spectrogram//0": "_zo.wav_spectrogram_0.png",
+    "zu.wav//waveform//0//0": "_zu.wav_waveform_0_0.png",
+    "zu.wav//waveform//1//0": "_zu.wav_waveform_1_0.png",
+    "zu.wav//spectrogram//0": "_zu.wav_spectrogram_0.png"
 }
