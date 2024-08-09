@@ -1,4 +1,6 @@
 name=Erithacus
-author=multidimensionalsock
-image=
+author=Erithacus Project
+image=character.bmp
+version=1.0
+web=https://github.com/ErithacusProject
 
